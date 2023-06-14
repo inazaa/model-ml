@@ -1,0 +1,6 @@
+tensorflow
+keras
+Pillow
+opencv-python
+matplotlib
+numpy
